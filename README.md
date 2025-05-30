@@ -1,23 +1,23 @@
 Group Project 
-## Problem Statement:
+# Problem Statement:
 
-## Railway Management System
+# Railway Management System
 A C++ console application for automating railway operations.
 
 Course: Software Development-I (CSE 1290)
 University: Northern University Bangladesh
 Submitted to: Jannat Rosul Nisha (Lecturer, CSE Department)
 
-## Features
+# Features
 
-# Passenger Reservation:	Online booking, seat selection, real-time availability checks.
-# Train Scheduling:	Manage timetables, routes, and delay alerts.
-# Ticket Management:	Passenger ID verification, discounts/offers.
-# Payment Gateway:	Simulated online payments and invoice generation.
-# Cargo Management:	Schedule and track freight transport.
-# Customer Support:	Live chat and feedback rating system (1-5).
+### Passenger Reservation:	Online booking, seat selection, real-time availability checks.
+### Train Scheduling:	Manage timetables, routes, and delay alerts.
+### Ticket Management:	Passenger ID verification, discounts/offers.
+### Payment Gateway:	Simulated online payments and invoice generation.
+### Cargo Management:	Schedule and track freight transport.
+### Customer Support:	Live chat and feedback rating system (1-5).
 
-##  Technology Stack
+# 🛠️  Technology Stack
 
 Language: C++ (OOP principles)
 
@@ -25,7 +25,7 @@ Data Handling: File I/O (temporary storage)
 
 Limitations: No database/GUI (console-only).
 
-## Limitations
+# ⚠️ Limitations
 
 ❌ No persistent storage (data lost on restart).
 
@@ -35,7 +35,7 @@ Limitations: No database/GUI (console-only).
 
 ❌ No real-time sync (single-user only).
 
-## 🔮 Future Improvements
+# 🔮 Future Improvements
 
 ✅ Integrate a database (SQLite/MySQL).
 
@@ -45,7 +45,7 @@ Limitations: No database/GUI (console-only).
 
 ✅ Connect to APIs (payment/tracking).
 
-👥 Contributors
+# 👥 Contributors
 Md Al Amin
 
 Sadia Afrin
@@ -58,8 +58,9 @@ Sabiha Sharker Piya
 
 ## Output Example:
 ```
-Balance: 1500
-Balance: 1200
-Insufficient funds!
-Balance: 1200
+Railway-Management-System/
+├── main.cpp           # Core logic
+├── headers/          # Class definitions (if any)
+├── docs/             # Project report (PDF)
+└── README.md         # This file
 ```
